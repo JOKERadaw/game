@@ -43,4 +43,4 @@ while True:
         #print("hello mom!")
     #http://www.pygame.org/docs/ref/key.html
     pygame.display.update()
-    clock.tick(30)#f
+    clock.tick(30)
